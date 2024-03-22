@@ -26,12 +26,11 @@ footer {
   text-align: center;
 }
 main {
-  width: 40vw;
-  padding: 1rem 1rem;
+  /* width: 40vw; */
+  /* padding: 1rem 1rem; */
   margin: 0 auto;
-  text-align: justify;
-  column-count: 3;
-  text-wrap:wrap;
+  text-align: left;
+  column-count: 4;
 }
 header h1 {
   color: orange;
